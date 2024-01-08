@@ -26,7 +26,6 @@ Skills:
 Ethical Hacking and Penetration Testing | Network Fundamentals | Vulnerability Assessment | Python Programming | Linux Administration | C++ Programming | Network Security | Risk Assessment and Mitigation | Security Policies and Procedures
 
 🔗 Connect with Ali:
-
 LinkedIn : www.linkedin.com/in/ali-amirshahi-b275211b8/
 Website: www.alphy-music.com
 Email: ali.amirshahi@gmail.com
