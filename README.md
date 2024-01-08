@@ -1,6 +1,6 @@
 ## Ali Amirshahi aka AlphyPsyche
 
-🎵 Musician / Visual Artist / Ethical Hacker 💻
+⚡ Musician / Visual Artist / Ethical Hacker ⚡
 
 
 ## 🎵 Musician Side 
@@ -33,8 +33,7 @@ Ethical Hacking and Penetration Testing | Network Fundamentals | Vulnerability A
 Security Project: 
 [OP3N1T SECURITY PROJECT](https://github.com/OP3N1T-SECURITY)
 
-🔗 Connect with Ali:
+## 🔗 Connect with Me:
 LinkedIn : www.linkedin.com/in/ali-amirshahi-b275211b8/
-
 Email: ali.amirshahi@gmail.com
 
