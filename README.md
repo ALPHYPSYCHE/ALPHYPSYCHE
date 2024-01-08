@@ -19,6 +19,9 @@ Unique blend of music and visuals.
 Music Project: 
 [PYFORMANCE PROJECT](https://github.com/Pyformance)
 
+Website: www.alphy-music.com
+
+
 ## Ethical Hacker Side
 Dedicated and certified CEH Ethical Hacker with expertise in cybersecurity, network fundamentals, and programming languages, seeking challenging opportunities to apply skills and knowledge to enhance the security posture of organizations.
 
@@ -33,6 +36,6 @@ Security Project:
 
 🔗 Connect with Ali:
 LinkedIn : www.linkedin.com/in/ali-amirshahi-b275211b8/
-Website: www.alphy-music.com
+
 Email: ali.amirshahi@gmail.com
 
