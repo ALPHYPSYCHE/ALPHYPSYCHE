@@ -3,7 +3,7 @@
 ⚡ Musician / Visual Artist / Ethical Hacker ⚡
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+page;You+can+learn+a+lot;Use+these+informations+carefuly!;Fork+and+star+repositories!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+page;You+can+learn+a+lot;Use+these+informations+carefuly!;Fork+and+star+repositories!&font=Fira%20Code&center=true&width=500&height=50&duration=4000&pause=1000">
 </p>
 
 ## 🎵 Musician Side 
@@ -37,7 +37,7 @@ Security Project:
 [OP3N1T SECURITY PROJECT](https://github.com/OP3N1T-SECURITY)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=for+educational+and+ethical+purposes+only; Use+responsibly+and+adhere+to+legal+standards!;The+author+os+not+responsible+for+misuse+caused+by+the+misuse! &font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
+  <img src="https://readme-typing-svg.demolab.com/?lines=for+educational+and+ethical+purposes+only; Use+responsibly+and+adhere+to+legal+standards!;The+author+os+not+responsible+for+misuse+caused+by+the+misuse! &font=Fira%20Code&center=true&width=700&height=50&duration=4000&pause=1000">
 </p>
 
 ## 💻 Programming Languages: 
