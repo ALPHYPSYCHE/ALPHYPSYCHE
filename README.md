@@ -16,7 +16,7 @@ Uses programs like TouchDesigner, Maxmsp, and Blender to create stunning visuals
 Performances at numerous venues and events, both in Iran and internationally.
 Unique blend of music and visuals.
 
-Project: 
+Music Project: 
 [PYFORMANCE PROJECT](https://github.com/Pyformance)
 
 ## Ethical Hacker Side
@@ -28,7 +28,8 @@ Cybersecurity | Certified Ethical Hacker (CEH) | Network+ | Penetration Testing 
 Skills:
 Ethical Hacking and Penetration Testing | Network Fundamentals | Vulnerability Assessment | Python Programming | Linux Administration | C++ Programming | Network Security | Risk Assessment and Mitigation | Security Policies and Procedures
 
-[SECURITY PROJECT](https://github.com/OP3N1T-SECURITY)
+Security Project: 
+[OP3N1T SECURITY PROJECT](https://github.com/OP3N1T-SECURITY)
 
 🔗 Connect with Ali:
 LinkedIn : www.linkedin.com/in/ali-amirshahi-b275211b8/
