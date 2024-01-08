@@ -2,6 +2,9 @@
 
 ⚡ Musician / Visual Artist / Ethical Hacker ⚡
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+page;You+can+learn+a+lot;Please+use+these+informations+carefuly!;Dont+forget+to+fork+and+star+repositories!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
+</p>
 
 ## 🎵 Musician Side 
 Ali Amirshahi is a multi-talented musician, composer, visual artist, and code programmer hailing from Tehran, Iran. Born on April 1st, 1986, Ali's musical journey began at the age of 14 when he started playing the piano. In 2015, Ali decided to further his education and enrolled in a sound engineering and sound designing course at the Tehran Conservatory of Music. His ultimate goal is to create performances that generate music in real-time while combining with visuals & lights to create an unforgettable atmosphere.
