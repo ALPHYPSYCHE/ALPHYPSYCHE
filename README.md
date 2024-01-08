@@ -36,9 +36,6 @@ Ethical Hacking and Penetration Testing | Network Fundamentals | Vulnerability A
 Security Project: 
 [OP3N1T SECURITY PROJECT](https://github.com/OP3N1T-SECURITY)
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=for+educational+and+ethical+purposes+only; Use+responsibly+and+adhere+to+legal+standards!;The+author+is+not+responsible+for+misuse! &font=Fira%20Code&center=true&width=800&height=50&duration=4000&pause=1000">
-</p>
 
 ## 💻 Programming Languages: 
 <img src="https://cdn.worldvectorlogo.com/logos/python-4.svg" alt="python" width="50" height="50" /> <img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="C++" width="50" height="50" /> <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="js" width="50" height="50" /> <img src="https://cdn.worldvectorlogo.com/logos/php-1.svg" alt="php" width="50" height="50" /> <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="html" width="50" height="50" /> 
