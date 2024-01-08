@@ -37,7 +37,7 @@ Security Project:
 [OP3N1T SECURITY PROJECT](https://github.com/OP3N1T-SECURITY)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=for+educational+and+ethical+purposes+only; Use+responsibly+and+adhere+to+legal+standards!;The+author+os+not+responsible+caused+by+misuse! &font=Fira%20Code&center=true&width=800&height=50&duration=4000&pause=1000">
+  <img src="https://readme-typing-svg.demolab.com/?lines=for+educational+and+ethical+purposes+only; Use+responsibly+and+adhere+to+legal+standards!;The+author+is+not+responsible+for+misuse! &font=Fira%20Code&center=true&width=800&height=50&duration=4000&pause=1000">
 </p>
 
 ## 💻 Programming Languages: 
