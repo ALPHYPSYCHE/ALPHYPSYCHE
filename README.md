@@ -34,7 +34,8 @@ Security Project:
 [OP3N1T SECURITY PROJECT](https://github.com/OP3N1T-SECURITY)
 
 
-<img src="https://cdn.worldvectorlogo.com/logos/python-4.svg" alt="python" width="50" height="50" /> <img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="C++" width="50" height="50" /> <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="js" width="50" height="50" /> <img src="https://cdn.worldvectorlogo.com/logos/php-1.svg" alt="php" width="50" height="50" /> <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="html" width="50" height="50" /> <img src="https://cdn.worldvectorlogo.com/logos/kubernets.svg" alt="kubernetes" width="50" height="50" />
+## 💻 Programming Languages: 
+<img src="https://cdn.worldvectorlogo.com/logos/python-4.svg" alt="python" width="50" height="50" /> <img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="C++" width="50" height="50" /> <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="js" width="50" height="50" /> <img src="https://cdn.worldvectorlogo.com/logos/php-1.svg" alt="php" width="50" height="50" /> <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="html" width="50" height="50" /> 
 
 
 ## 🔗 Connect with Me:
