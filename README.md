@@ -1,9 +1,9 @@
 ## Ali Amirshahi aka AlphyPsyche
 
-🎵 Musician & Ethical Hacker 💻
+🎵 Musician / Visual Artist / Ethical Hacker 💻
 
 
-## Musician Side
+## 🎵 Musician Side 
 Ali Amirshahi is a multi-talented musician, composer, visual artist, and code programmer hailing from Tehran, Iran. Born on April 1st, 1986, Ali's musical journey began at the age of 14 when he started playing the piano. In 2015, Ali decided to further his education and enrolled in a sound engineering and sound designing course at the Tehran Conservatory of Music. His ultimate goal is to create performances that generate music in real-time while combining with visuals & lights to create an unforgettable atmosphere.
 
 Musical Achievements:
@@ -21,7 +21,7 @@ Music Project:
 Website: www.alphy-music.com
 
 
-## Ethical Hacker Side
+## 💻 Ethical Hacker Side 
 Dedicated and certified CEH Ethical Hacker with expertise in cybersecurity, network fundamentals, and programming languages, seeking challenging opportunities to apply skills and knowledge to enhance the security posture of organizations.
 
 Certifications:  
