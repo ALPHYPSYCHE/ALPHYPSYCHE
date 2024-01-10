@@ -39,7 +39,7 @@ Security Project:
 
 
 ## 💻 Programming Languages: 
-<img src="https://cdn.worldvectorlogo.com/logos/python-4.svg" alt="python" width="50" height="50" /> <img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="C++" width="50" height="50" /> <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="js" width="50" height="50" /> <img src="https://cdn.worldvectorlogo.com/logos/php-1.svg" alt="php" width="50" height="50" /> <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="html" width="50" height="50" /> 
+<img src="https://github.com/ALPHYPSYCHE/ALPHYPSYCHE/blob/main/Icons/python.svg" alt="python" width="50" height="50" /> <img src="https://github.com/ALPHYPSYCHE/ALPHYPSYCHE/blob/main/Icons/c%2B%2B.svg" alt="C++" width="50" height="50" /> <img src="https://github.com/ALPHYPSYCHE/ALPHYPSYCHE/blob/main/Icons/js.svg" alt="js" width="50" height="50" /> <img src="https://github.com/ALPHYPSYCHE/ALPHYPSYCHE/blob/main/Icons/php.svg" alt="php" width="50" height="50" /> <img src="https://github.com/ALPHYPSYCHE/ALPHYPSYCHE/blob/main/Icons/html5.svg" alt="html" width="50" height="50" /> 
 
 
 ## 🔗 Connect with Me:
