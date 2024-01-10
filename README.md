@@ -57,4 +57,3 @@ Email: ali.amirshahi@gmail.com
 <a href="http://www.alphy-music.com" target="blank"><img align="center" src="https://github.com/ALPHYPSYCHE/ALPHYPSYCHE/blob/main/Icons/chrome.png" alt="" height="30" /></a>
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=ALPHYPSYCHE&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&layout=compact" alt="GitHub Stats for ALPHYPSYCHE" width="700">
