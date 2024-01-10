@@ -50,10 +50,10 @@ Email: ali.amirshahi@gmail.com
 
 
 <p align="left">
-<a href="https://twitter.com/AmirshahiAli" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/twitter%20(2).png" title = "Twitter" alt="" height="30" /></a>
-<a href="linkedin.com/in/ali-amirshahi-b275211b8/" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/transparent-Linkedin-logo-icon.png" alt="" height="30" /></a>
-<a href="https://instagram.com/alphypsyche" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/instagram.png" alt="" height="30" /></a>
-<a href="https://www.twitch.com/alphypsyche" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/twitch.png" alt="" height="30" /></a>
-<a href="https://www.youtube.com/channel/UCQWYga3HoRPgCz7w2rG37Eg?view_as=subscriber" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/youtube.png" alt="" height="30" /></a>
-<a href="http://www.alphy-music.com" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/chrome.png" alt="" height="30" /></a>
+<a href="https://twitter.com/AmirshahiAli" target="blank"><img align="center" src="https://github.com/ALPHYPSYCHE/ALPHYPSYCHE/blob/main/Icons/twitter%20(2).png" title = "Twitter" alt="" height="30" /></a>
+<a href="linkedin.com/in/ali-amirshahi-b275211b8/" target="blank"><img align="center" src="https://github.com/ALPHYPSYCHE/ALPHYPSYCHE/blob/main/Icons/Linkedin-logo-icon.png" alt="" height="30" /></a>
+<a href="https://instagram.com/alphypsyche" target="blank"><img align="center" src="https://github.com/ALPHYPSYCHE/ALPHYPSYCHE/blob/main/Icons/instagram.png" alt="" height="30" /></a>
+<a href="https://www.twitch.com/alphypsyche" target="blank"><img align="center" src="https://github.com/ALPHYPSYCHE/ALPHYPSYCHE/blob/main/Icons/twitch.png" alt="" height="30" /></a>
+<a href="https://www.youtube.com/channel/UCQWYga3HoRPgCz7w2rG37Eg?view_as=subscriber" target="blank"><img align="center" src="https://github.com/ALPHYPSYCHE/ALPHYPSYCHE/blob/main/Icons/youtube.png" alt="" height="30" /></a>
+<a href="http://www.alphy-music.com" target="blank"><img align="center" src="https://github.com/ALPHYPSYCHE/ALPHYPSYCHE/blob/main/Icons/chrome.png" alt="" height="30" /></a>
 </p>
