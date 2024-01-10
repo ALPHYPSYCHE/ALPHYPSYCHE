@@ -54,6 +54,7 @@ Email: ali.amirshahi@gmail.com
 <a href="https://instagram.com/alphypsyche" target="blank"><img align="center" src="https://github.com/ALPHYPSYCHE/ALPHYPSYCHE/blob/main/Icons/instagram.png" alt="" height="30" /></a>
 <a href="https://www.twitch.com/alphypsyche" target="blank"><img align="center" src="https://github.com/ALPHYPSYCHE/ALPHYPSYCHE/blob/main/Icons/twitch.png" alt="" height="30" /></a>
 <a href="https://www.youtube.com/channel/UCQWYga3HoRPgCz7w2rG37Eg?view_as=subscriber" target="blank"><img align="center" src="https://github.com/ALPHYPSYCHE/ALPHYPSYCHE/blob/main/Icons/youtube.png" alt="" height="30" /></a>
+<a href="https://www.facebook.com/alphy.psyche" target="blank"><img align="center" src="https://github.com/ALPHYPSYCHE/ALPHYPSYCHE/blob/main/Icons/facebook.png" alt="" height="30" /></a>
 <a href="http://www.alphy-music.com" target="blank"><img align="center" src="https://github.com/ALPHYPSYCHE/ALPHYPSYCHE/blob/main/Icons/chrome.png" alt="" height="30" /></a>
 </p>
 
