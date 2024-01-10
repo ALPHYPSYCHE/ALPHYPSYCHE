@@ -1,3 +1,5 @@
+![Ali Amirshahi Banner](https://i.ibb.co/2WKr9HR/github-banner-small.png)
+
 ## Ali Amirshahi aka AlphyPsyche
 
 ⚡ Musician / Visual Artist / Ethical Hacker ⚡
