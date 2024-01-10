@@ -25,6 +25,12 @@ Music Project:
 
 Website: www.alphy-music.com
 
+<p align="left">
+<a href="https://www.beatport.com/artist/alphypsyche/877204" target="blank"><img align="center" src="https://github.com/ALPHYPSYCHE/ALPHYPSYCHE/blob/main/Icons/beatport-link-2021.svg" title = "Twitter" alt="" height="30" /></a>
+<a href="https://open.spotify.com/artist/4NVnuPmwyKC82yOAdAW23W" target="blank"><img align="center" src="https://github.com/ALPHYPSYCHE/ALPHYPSYCHE/blob/main/Icons/spotify.svg" alt="" height="30" /></a>
+<a href="https://soundcloud.com/alphy-psyche" target="blank"><img align="center" src="https://github.com/ALPHYPSYCHE/ALPHYPSYCHE/blob/main/Icons/soundcloud-icon-1.svg" alt="" height="30" /></a>
+<a href="https://music.apple.com/us/artist/alphypsyche/1515908005" target="blank"><img align="center" src="https://github.com/ALPHYPSYCHE/ALPHYPSYCHE/blob/main/Icons/apple-music-3.svg" alt="" height="30" /></a>
+</p>
 
 ## 💻 Ethical Hacker Side 
 Dedicated and certified CEH Ethical Hacker with expertise in cybersecurity, network fundamentals, and programming languages, seeking challenging opportunities to apply skills and knowledge to enhance the security posture of organizations.
