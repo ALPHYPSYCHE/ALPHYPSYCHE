@@ -55,9 +55,9 @@ Email: ali.amirshahi@gmail.com
 <a href="https://instagram.com/alphypsyche" target="blank"><img align="center" src="https://github.com/ALPHYPSYCHE/ALPHYPSYCHE/blob/main/Icons/instagram.png" alt="" height="30" /></a>
 <a href="https://www.twitch.com/alphypsyche" target="blank"><img align="center" src="https://github.com/ALPHYPSYCHE/ALPHYPSYCHE/blob/main/Icons/twitch.png" alt="" height="30" /></a>
 <a href="https://www.youtube.com/channel/UCQWYga3HoRPgCz7w2rG37Eg?view_as=subscriber" target="blank"><img align="center" src="https://github.com/ALPHYPSYCHE/ALPHYPSYCHE/blob/main/Icons/youtube.png" alt="" height="30" /></a>
-<a href="https://www.beatport.com/artist/alphypsyche/877204" target="blank"><img align="center" src="https://github.com/ALPHYPSYCHE/ALPHYPSYCHE/blob/main/Icons/beatport.png" alt="" width="30" height="30" /></a>
-<a href="https://open.spotify.com/artist/4NVnuPmwyKC82yOAdAW23W" target="blank"><img align="center" src="https://github.com/ALPHYPSYCHE/ALPHYPSYCHE/blob/main/Icons/spotify.png" alt="" width="30" height="30" /></a>
-<a href="https://music.apple.com/us/artist/alphypsyche/1515908005" target="blank"><img align="center" src="https://github.com/ALPHYPSYCHE/ALPHYPSYCHE/blob/main/Icons/apple.png" alt="" width="30" height="30" /></a>
+<a href="https://www.beatport.com/artist/alphypsyche/877204" target="blank"><img align="center" src="https://github.com/ALPHYPSYCHE/ALPHYPSYCHE/blob/main/Icons/beatport2.png" alt="" width="30" height="30" /></a>
+<a href="https://open.spotify.com/artist/4NVnuPmwyKC82yOAdAW23W" target="blank"><img align="center" src="https://github.com/ALPHYPSYCHE/ALPHYPSYCHE/blob/main/Icons/spotify2.png" alt="" width="30" height="30" /></a>
+<a href="https://music.apple.com/us/artist/alphypsyche/1515908005" target="blank"><img align="center" src="https://github.com/ALPHYPSYCHE/ALPHYPSYCHE/blob/main/Icons/apple2.png" alt="" width="30" height="30" /></a>
 <a href="http://www.alphy-music.com" target="blank"><img align="center" src="https://github.com/ALPHYPSYCHE/ALPHYPSYCHE/blob/main/Icons/chrome.png" alt="" width="30" height="30" /></a>
 </p>
 
