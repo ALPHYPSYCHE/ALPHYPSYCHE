@@ -65,7 +65,8 @@ Email: ali.amirshahi@gmail.com
 </p>
 
 ## ⚙️ Public Repositories (Learn for Free):
+1. [LEARN ETHICAL HACK](https://github.com/ALPHYPSYCHE/Ethical-Hacking)
+2. [LEARN KUBERNETES](https://github.com/ALPHYPSYCHE/Kubernetes)
 1. [LEARN PHP](https://github.com/ALPHYPSYCHE/PHP_LEARN)
 2. [LEARN MYSQL](https://github.com/ALPHYPSYCHE/MySQL)
-3. [LEARN KUBERNETES](https://github.com/ALPHYPSYCHE/Kubernetes)
-4. [LEARN ETHICAL HACK](https://github.com/ALPHYPSYCHE/Ethical-Hacking)
+
