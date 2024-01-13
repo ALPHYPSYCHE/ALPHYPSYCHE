@@ -61,6 +61,6 @@ Email: ali.amirshahi@gmail.com
 <a href="https://www.beatport.com/artist/alphypsyche/877204" target="blank"><img align="center" src="https://github.com/ALPHYPSYCHE/ALPHYPSYCHE/blob/main/Icons/beatport2.png" alt="" width="30" height="30" /></a>
 <a href="https://open.spotify.com/artist/4NVnuPmwyKC82yOAdAW23W" target="blank"><img align="center" src="https://github.com/ALPHYPSYCHE/ALPHYPSYCHE/blob/main/Icons/spotify2.png" alt="" width="30" height="30" /></a>
 <a href="https://music.apple.com/us/artist/alphypsyche/1515908005" target="blank"><img align="center" src="https://github.com/ALPHYPSYCHE/ALPHYPSYCHE/blob/main/Icons/apple2.png" alt="" width="30" height="30" /></a>
-<a href="http://www.alphy-music.com" target="blank"><img align="center" src="https://github.com/ALPHYPSYCHE/ALPHYPSYCHE/blob/main/Icons/chrome.png" alt="" width="30" height="30" /></a>
+<a href="http://www.alphy-music.com" target="blank"><img align="center" src="https://github.com/ALPHYPSYCHE/ALPHYPSYCHE/blob/main/Icons/alphy-music.png" alt="" width="30" height="30" /></a>
 </p>
 
