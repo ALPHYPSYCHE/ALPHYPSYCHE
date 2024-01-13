@@ -23,8 +23,8 @@ Unique blend of music and visuals.
 Music Project: 
 [PYFORMANCE PROJECT](https://github.com/Pyformance)
 
-Released Music Worldwide: 
-[RELEASED MUSIC PAGE](https://github.com/ALPHYPSYCHE/ALPHYPSYCHE/blob/main/ALPHYPSYCHE%20PAGE/Released_music.md)
+
+[RELEASED MUSIC WORLDWIDE](https://github.com/ALPHYPSYCHE/ALPHYPSYCHE/blob/main/ALPHYPSYCHE%20PAGE/Released_music.md)
 
 Website: www.alphy-music.com
 
