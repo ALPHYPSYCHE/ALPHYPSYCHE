@@ -32,7 +32,7 @@ RELEASED MUSIC WORLDWIDE
     </div>
     <div style="margin-bottom:-1.5em;">
         <h1 display="display:inline;">
-            <font size="+4">OUROBOROS</font>
+            <font size="+4">OUROBOROS (Alphypsyche , Ponosys)</font>
         </h1>
     </div>
 </a>
