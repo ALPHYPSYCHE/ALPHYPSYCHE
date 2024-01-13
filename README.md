@@ -64,7 +64,7 @@ Email: ali.amirshahi@gmail.com
 <a href="http://www.alphy-music.com" target="blank"><img align="center" src="https://github.com/ALPHYPSYCHE/ALPHYPSYCHE/blob/main/Icons/alphy-music.png" alt="" width="30" height="30" /></a>
 </p>
 
-## ⚙️ Public Repositories:
+## ⚙️ Learn for Free:
 1. [LEARN PHP](https://github.com/ALPHYPSYCHE/PHP_LEARN)
 2. [LEARN MYSQL](https://github.com/ALPHYPSYCHE/MySQL)
 3. [LEARN KUBERNETES](https://github.com/ALPHYPSYCHE/Kubernetes)
