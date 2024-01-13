@@ -23,6 +23,9 @@ Unique blend of music and visuals.
 Music Project: 
 [PYFORMANCE PROJECT](https://github.com/Pyformance)
 
+Released Music: 
+[RELEASED MUSIC](https://github.com/ALPHYPSYCHE/ALPHYPSYCHE/blob/main/ALPHYPSYCHE%20PAGE/Released_music.md)
+
 Website: www.alphy-music.com
 
 ## 💻 Ethical Hacker Side 
