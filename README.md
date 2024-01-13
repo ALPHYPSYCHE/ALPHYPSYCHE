@@ -24,9 +24,9 @@ Music Project:
 [PYFORMANCE PROJECT](https://github.com/Pyformance)
 
 
-[RELEASED MUSIC WORLDWIDE](https://github.com/ALPHYPSYCHE/ALPHYPSYCHE/blob/main/ALPHYPSYCHE%20PAGE/Released_music.md)
+🎶 [RELEASED MUSIC WORLDWIDE](https://github.com/ALPHYPSYCHE/ALPHYPSYCHE/blob/main/ALPHYPSYCHE%20PAGE/Released_music.md)
 
-Website: www.alphy-music.com
+🔗 Website: www.alphy-music.com
 
 ## 💻 Ethical Hacker Side 
 Dedicated and certified CEH Ethical Hacker with expertise in cybersecurity, network fundamentals, and programming languages, seeking challenging opportunities to apply skills and knowledge to enhance the security posture of organizations.
