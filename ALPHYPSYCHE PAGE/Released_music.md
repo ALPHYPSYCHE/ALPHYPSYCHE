@@ -187,3 +187,70 @@ RELEASED MUSIC WORLDWIDE
 <div style="margin-left:5em;">
     <span style="vertical-align: middle;"><font size="+2">
 
+<a href="https://www.beatport.com/release/frown/3415209">
+    <div style="margin-bottom:1em;"> 
+        <img style="margin-right:-.2em;" align="left" src="https://github.com/ALPHYPSYCHE/ALPHYPSYCHE/blob/main/ALPHYPSYCHE%20PAGE/released_music/Frown.png" title="frown" width="100" height="100"/>
+    </div>
+    <div style="margin-bottom:-1.5em;">
+        <h1 display="display:inline;">
+            <font size="+4">FROWN (Alphypsyche , Black Eagle)</font>
+        </h1>
+    </div>
+</a>
+
+<div style="margin-left:5em;">
+    <span style="vertical-align: middle;"><font size="+2">Feel the vibe is a Dark Trappy atmospher that leads you to crazy and wired sence and feelings.
+
+      Release Date: 2021-06-10 | Label: Adernaline Black Rec (USA) | Genre: Dark Trap | Catalog: ARB013
+</p>
+</font></span>
+</div>
+<br>
+<div style="margin-left:5em;">
+    <span style="vertical-align: middle;"><font size="+2">
+      
+    
+      
+<a href="https://www.beatport.com/release/divine-metaform/3029193">
+    <div style="margin-bottom:1em;"> 
+        <img style="margin-right:-.2em;" align="left" src="https://github.com/ALPHYPSYCHE/ALPHYPSYCHE/blob/main/ALPHYPSYCHE%20PAGE/released_music/divine%20metaform.png" title="divine-metaform" width="100" height="100"/>
+    </div>
+    <div style="margin-bottom:-1.5em;">
+        <h1 display="display:inline;">
+            <font size="+4">DEVINE METAFORM (Alphypsyche , SepScoota)</font>
+        </h1>
+    </div>
+</a>
+
+<div style="margin-left:5em;">
+    <span style="vertical-align: middle;"><font size="+2"> Hard, heavy, fast, dark and polished with dirt...that's what you can expect from Sep Scoota and Alphy Psyche, Iranian based psytrance magicians...prepare to trip in 150bpm range.
+
+      Release Date: 2020-07-03 | Label: 1.2.Trip Records (UK) | Genre: Psychedelic Trance | Catalog: CAT399878
+</p>
+</font></span>
+</div>
+<br>
+<div style="margin-left:5em;">
+    <span style="vertical-align: middle;"><font size="+2">
+
+<a href="https://www.beatport.com/release/alienology/2982239">
+    <div style="margin-bottom:1em;"> 
+        <img style="margin-right:-.2em;" align="left" src="https://github.com/ALPHYPSYCHE/ALPHYPSYCHE/blob/main/ALPHYPSYCHE%20PAGE/released_music/Alienology.png" title="alienology" width="100" height="100"/>
+    </div>
+    <div style="margin-bottom:-1.5em;">
+        <h1 display="display:inline;">
+            <font size="+4">ALENOLOGY (Alphypsyche , Techier3z)</font>
+        </h1>
+    </div>
+</a>
+
+<div style="margin-left:5em;">
+    <span style="vertical-align: middle;"><font size="+2"> Adrenaline Black is starting its journey with its first release which is going to include three magnificent dark and deep techno mixed by two amazing artists. this EP will take you to a journey of three steps. for each you will feel the depth of an ocean and vastness of a desert. this is gonna be a beautiful start for IDM section of adrenaline. enjoy the journey.
+
+      Release Date: 2020-06-05 | Label: Adernalin Black Rec (USA) | Genre: Electronica | Catalog: ARB001
+</p>
+</font></span>
+</div>
+<br>
+<div style="margin-left:5em;">
+    <span style="vertical-align: middle;"><font size="+2">
