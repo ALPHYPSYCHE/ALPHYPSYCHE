@@ -4,6 +4,7 @@
 
 ⚡ Musician / Visual Artist / Ethical Hacker ⚡
 
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+page;You+can+learn+a+lot!;Use+these+informations+carefuly!;Fork+and+star+repositories!&font=Fira%20Code&center=true&width=600&height=50&duration=4000&pause=1000">
 </p>
