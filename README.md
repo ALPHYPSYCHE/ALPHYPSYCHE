@@ -71,4 +71,5 @@ Email: ali.amirshahi@gmail.com
 3. [LEARN PHP](https://github.com/ALPHYPSYCHE/PHP_LEARN)
 4. [LEARN MYSQL](https://github.com/ALPHYPSYCHE/MySQL)
 5. [TOOLS](https://github.com/ALPHYPSYCHE/Tools)
+6. [RUST](https://github.com/ALPHYPSYCHE/RUST)
 
