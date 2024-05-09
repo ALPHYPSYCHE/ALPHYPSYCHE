@@ -43,7 +43,8 @@ Security Project:
 
 
 ## 💻 Programming Languages: 
-<img src="https://github.com/ALPHYPSYCHE/ALPHYPSYCHE/blob/main/Icons/python.svg" alt="python" width="50" height="50" /> <img src="https://github.com/ALPHYPSYCHE/ALPHYPSYCHE/blob/main/Icons/c%2B%2B.svg" alt="C++" width="50" height="50" /> <img src="https://github.com/ALPHYPSYCHE/ALPHYPSYCHE/blob/main/Icons/js.svg" alt="js" width="50" height="50" /> <img src="https://github.com/ALPHYPSYCHE/ALPHYPSYCHE/blob/main/Icons/php.svg" alt="php" width="50" height="50" /> <img src="https://github.com/ALPHYPSYCHE/ALPHYPSYCHE/blob/main/Icons/html5.svg" alt="html" width="50" height="50" /> <img src="https://github.com/ALPHYPSYCHE/ALPHYPSYCHE/blob/main/Icons/css3-original.svg" alt="html" width="50" height="50" /> <img src="https://github.com/ALPHYPSYCHE/ALPHYPSYCHE/blob/main/Icons/mysql-logo.svg" alt="mySQL" width="50" height="50" /> 
+<img src="https://github.com/ALPHYPSYCHE/ALPHYPSYCHE/blob/main/Icons/python.svg" alt="python" width="50" height="50" /> <img 
+src="https://github.com/ALPHYPSYCHE/ALPHYPSYCHE/blob/main/Icons/c%2B%2B.svg" alt="C++" width="50" height="50" /> <img src="https://github.com/ALPHYPSYCHE/ALPHYPSYCHE/blob/main/Icons/js.svg" alt="js" width="50" height="50" /> <img src="https://github.com/ALPHYPSYCHE/ALPHYPSYCHE/blob/main/Icons/php.svg" alt="php" width="50" height="50" /> <img src="https://github.com/ALPHYPSYCHE/ALPHYPSYCHE/blob/main/Icons/html5.svg" alt="html" width="50" height="50" /> <img src="https://github.com/ALPHYPSYCHE/ALPHYPSYCHE/blob/main/Icons/css3-original.svg" alt="html" width="50" height="50" /> <img src="https://github.com/ALPHYPSYCHE/ALPHYPSYCHE/blob/main/Icons/rust-svg.svg" alt="Rust" width="50" height="50" /> <img src="https://github.com/ALPHYPSYCHE/ALPHYPSYCHE/blob/main/Icons/mysql-logo.svg" alt="mySQL" width="50" height="50" /> 
 
 
 ## 🔗 Connect with Me:
